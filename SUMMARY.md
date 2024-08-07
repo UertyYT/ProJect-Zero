@@ -3,4 +3,5 @@
 ## Информация
 
 * [О-нас](README.md)
-  * [Page](informaciya/o-nas/page.md)
+  * [Команда разработчиков](informaciya/o-nas/komanda-razrabotchikov.md)
+  * [О проекте](informaciya/o-nas/o-proekte.md)
