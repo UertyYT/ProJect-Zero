@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Publish your docs](README.md)
-
 ## Информация
 
-* [О-нас](informaciya/o-nas.md)
+* [О-нас](README.md)
+  * [Page](informaciya/o-nas/page.md)
