@@ -13,3 +13,9 @@ description: Тут вы узнаете больше о проекте!
 {% content-ref url="informaciya/o-nas/komanda-razrabotchikov.md" %}
 [komanda-razrabotchikov.md](informaciya/o-nas/komanda-razrabotchikov.md)
 {% endcontent-ref %}
+
+{% content-ref url="informaciya/o-nas/chasto-zadavaemye-voprosy.md" %}
+[chasto-zadavaemye-voprosy.md](informaciya/o-nas/chasto-zadavaemye-voprosy.md)
+{% endcontent-ref %}
+
+***

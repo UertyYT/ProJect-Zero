@@ -1,6 +1,6 @@
 ---
-description: ДаВаЙтЕ ПоСмОтРиМ
 icon: messages-question
+description: ДаВаЙтЕ ПоСмОтРиМ
 ---
 
 # часто задаваемые вопросы
@@ -14,3 +14,5 @@ icon: messages-question
 конечно , без условно)
 
 </details>
+
+***

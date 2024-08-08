@@ -1,6 +1,6 @@
 ---
-description: Наша тима!
 icon: screen-users
+description: Наша тима!
 ---
 
 # Команда разработчиков
@@ -23,6 +23,8 @@ icon: screen-users
 {% endtab %}
 {% endtabs %}
 
-{% embed url="https://www.youtube.com/@uertyk_" %}
+{% embed url="https://www.youtube.com/@uertyk_" fullWidth="true" %}
 
-{% embed url="https://www.youtube.com/@Maxunta" %}
+{% embed url="https://www.youtube.com/@Maxunta" fullWidth="true" %}
+
+***

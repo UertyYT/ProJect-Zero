@@ -1,6 +1,6 @@
 ---
-description: '[ERROR 404]'
 icon: hexagon-exclamation
+description: '[ERROR 404]'
 ---
 
 # error
@@ -18,3 +18,4 @@ icon: hexagon-exclamation
 >
 > Возможно автор оболтус и не-до удалил эту страницу.
 
+***

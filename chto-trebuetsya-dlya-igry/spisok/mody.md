@@ -1,6 +1,7 @@
 ---
 description: Во первых всему нужны движки для работы , и у нас такие есть!
-cover: ../.gitbook/assets/errorMODS0001.png
+icon: list-timeline
+cover: ../../.gitbook/assets/errorMODS0001.png
 coverY: 0
 ---
 
@@ -10,5 +11,6 @@ coverY: 0
 \[ERROR] {нету нужной информации}
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/errorMODS0001.png" alt=""><figcaption><p>вот так будет у тебя всё выглядеть</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/errorMODS0001.png" alt=""><figcaption><p>Вот так будет у тебя всё выглядеть</p></figcaption></figure>
 
+***

@@ -9,8 +9,9 @@
 
 ## Что требуется для игры?
 
-* [Моды](chto-trebuetsya-dlya-igry/mody.md)
-* [error](chto-trebuetsya-dlya-igry/error.md)
+* [Список:](chto-trebuetsya-dlya-igry/spisok/README.md)
+  * [Моды](chto-trebuetsya-dlya-igry/spisok/mody.md)
+  * [error](chto-trebuetsya-dlya-igry/spisok/error.md)
 
 ***
 
