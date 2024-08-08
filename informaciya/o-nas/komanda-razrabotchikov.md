@@ -8,11 +8,17 @@ description: Наша тима!
 
 {% tabs %}
 {% tab title="uertyk_" %}
-<figure><img src="../../.gitbook/assets/ua0001.png" alt="uertyk_ , без него проекта не было бы"><figcaption><p>uertyk_ // Создатель проекта</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ua0001.png" alt="конченный шизафреник"><figcaption><p>uertyk_ // Создатель проекта</p></figcaption></figure>
 {% endtab %}
 
 {% tab title="мазнута" %}
-<figure><img src="../../.gitbook/assets/ma0001.png" alt="maxunta , без него проекта не было бы"><figcaption><p>maxunta // Со-создатель проекта</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ma0001.png" alt="самая мазнутая краска в мире"><figcaption><p>maxunta // Со-создатель проекта</p></figcaption></figure>
+{% endtab %}
+
+{% tab title="debug" %}
+```html
+// DEBUGYSSYS
+```
 {% endtab %}
 {% endtabs %}
 
