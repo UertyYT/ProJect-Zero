@@ -1,14 +1,14 @@
 ---
-description: '[ERROR 404]'
 icon: hexagon-exclamation
+description: '[ERROR 404]'
 ---
 
 # Тактический
 
 
 
-{% hint style="warning" %}
-ОШИБКА В СВЯЗИ ДАННОЙ СТРАНИЦОЙ
+{% hint style="danger" %}
+ОШИБКА В СВЯЗИ ДАННОЙ СТРАНИЦЕЙ
 {% endhint %}
 
 * если вы увидели данную страницу , то просим связаться с её автором и отправить ему эту ошибку.
