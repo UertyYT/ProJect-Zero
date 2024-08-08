@@ -6,6 +6,9 @@
   * [О проекте](informaciya/o-nas/o-proekte.md)
   * [Команда разработчиков](informaciya/o-nas/komanda-razrabotchikov.md)
   * [часто задаваемые вопросы](informaciya/o-nas/chasto-zadavaemye-voprosy.md)
+* [Работа серверов](informaciya/rabota-serverov/README.md)
+  * [Выживание](informaciya/rabota-serverov/vyzhivanie.md)
+  * [Тактический](informaciya/rabota-serverov/takticheskii.md)
 
 ## Что требуется для игры?
 
