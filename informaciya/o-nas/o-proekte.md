@@ -1,10 +1,15 @@
 ---
 description: Разная информация о проекте!
+icon: memo-circle-info
 cover: ../../.gitbook/assets/ZPlogo0001.png
 coverY: 0
 ---
 
 # О проекте
+
+{% hint style="warning" %}
+ДАННАЯ ДОКУМЕНТАЦИЯ , КАК И ПРОЕКТ НАХОДИТСЯ В РАЗРАБОТКЕ!!
+{% endhint %}
 
 Основная информация:
 

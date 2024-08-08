@@ -1,5 +1,6 @@
 ---
 description: Наша тима!
+icon: screen-users
 ---
 
 # Команда разработчиков
