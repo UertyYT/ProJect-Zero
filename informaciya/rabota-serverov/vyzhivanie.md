@@ -1,6 +1,8 @@
 ---
 icon: hexagon-exclamation
 description: '[ERROR 404]'
+cover: ../../.gitbook/assets/modsGUNS0000.png
+coverY: 0
 ---
 
 # Выживание
