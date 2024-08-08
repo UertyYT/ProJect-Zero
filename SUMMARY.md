@@ -5,6 +5,7 @@
 * [О-нас](README.md)
   * [О проекте](informaciya/o-nas/o-proekte.md)
   * [Команда разработчиков](informaciya/o-nas/komanda-razrabotchikov.md)
+  * [Как попасть?](informaciya/o-nas/kak-popast.md)
   * [часто задаваемые вопросы](informaciya/o-nas/chasto-zadavaemye-voprosy.md)
 * [Работа серверов](informaciya/rabota-serverov/README.md)
   * [Выживание](informaciya/rabota-serverov/vyzhivanie.md)
